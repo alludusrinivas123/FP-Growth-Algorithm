@@ -1,0 +1,101 @@
+claim_id,vehicle_model,year_of_manufacture,mileage_at_claim,claim_date,failure_codes,parts_replaced,dealer_id,region,claim_cost_usd
+3b91c28a-2c3a-40c7-8d95-b30222520762,Accord,2016,8278,2024-01-12,"['P0171', 'P0420', 'P0606']","['oxygen_sensor', 'gasket']",DLR1017,North,1517.18
+76281b03-f5eb-4dbd-89e9-2d8b8c660579,Civic,2015,17280,2023-06-04,['P0420'],['fuel_pump'],DLR1017,West,629.06
+e1d8ea1e-5719-4db5-bbbf-ec92e5bbf21d,Rav4,2019,111093,2023-11-27,['B0020'],"['battery', 'brake_pads']",DLR1008,South,616.75
+97006c38-6457-4138-a0fe-e9399e7df6ec,F-150,2016,17156,2023-11-10,"['P0300', 'P0171']","['alternator', 'battery', 'spark_plug']",DLR1014,Midwest,399.58
+e2a291a2-0db4-4a93-a5e4-d2427998ea2d,Model 3,2016,77357,2024-06-27,"['B0020', 'P0606']","['fuel_pump', 'gasket', 'spark_plug']",DLR1001,South,1955.36
+225d8d0b-a386-445a-99f1-8ef60f21cedd,Civic,2018,118571,2023-10-19,['U0100'],"['transmission_fluid', 'gasket', 'brake_pads']",DLR1005,East,952.65
+dbf865f4-84fd-4a9d-ae3d-89ba6298cf70,Accord,2019,96988,2024-05-01,"['P0606', 'P0300', 'P0455']","['fuel_pump', 'oxygen_sensor']",DLR1014,West,747.87
+349085bb-cfed-42c4-900d-fa8e6488a500,Accord,2023,33785,2023-12-03,"['P0171', 'P0300', 'P0420']",['gasket'],DLR1012,East,258.85
+1bdab946-7987-4072-8100-7b27ca9e2104,Rav4,2020,32869,2024-11-02,"['U0100', 'B0020', 'P0606']","['alternator', 'oxygen_sensor']",DLR1007,Midwest,1393.55
+c2154652-4111-4dff-a7c2-0032b7d7356d,Accord,2021,81484,2023-11-28,"['P0171', 'P0420']","['transmission_fluid', 'spark_plug']",DLR1001,North,466.82
+1d3f5d77-07a1-4e99-a0ad-77c7381b066d,Corolla,2021,83172,2024-01-28,['U0100'],"['transmission_fluid', 'alternator', 'brake_pads', 'battery']",DLR1000,North,1736.1
+71cf1cd2-16fc-4275-b2a6-c3cf7290b531,Rav4,2019,105741,2024-02-26,"['P0171', 'P0300', 'B0020']","['brake_pads', 'fuel_pump', 'spark_plug', 'transmission_fluid']",DLR1016,South,1318.44
+98147659-b555-47e0-9881-f38be58e1e6c,Civic,2019,115319,2025-02-28,"['P0455', 'B0020', 'P0420']","['gasket', 'battery']",DLR1005,Midwest,2388.4
+b45ec84d-6275-4833-a255-4d128f163b79,Rav4,2015,83504,2024-07-19,"['U0100', 'P0300']",['gasket'],DLR1009,South,239.02
+d886450c-6fe6-4200-a2d0-850f071aaff5,Rav4,2016,16226,2024-08-19,"['U0100', 'P0300', 'P0455']","['brake_pads', 'gasket']",DLR1015,Midwest,496.3
+347257c1-6265-4adb-bc9f-9e05daf9472f,Rav4,2021,32760,2024-12-31,"['B0020', 'P0606', 'P0420']","['battery', 'gasket', 'transmission_fluid']",DLR1011,West,2259.07
+b75ed733-65ef-4883-9ef1-1e5f99d85ac9,Model 3,2016,37493,2023-12-26,['P0300'],"['spark_plug', 'alternator', 'battery']",DLR1007,Midwest,628.52
+3d5e2148-18b2-47a1-ad54-3949e887f18d,Civic,2015,35007,2025-04-04,['P0300'],"['oxygen_sensor', 'alternator', 'transmission_fluid']",DLR1008,West,614.17
+cbe01968-de63-4c66-bb3d-39cd6f88a9b3,Corolla,2022,36850,2025-01-30,"['B0020', 'U0100']","['oxygen_sensor', 'spark_plug']",DLR1013,East,1116.59
+6be2090c-3008-4b83-af3a-7495e4dd1f03,Model 3,2015,93259,2025-04-15,"['P0606', 'P0300', 'B0020']","['gasket', 'battery', 'spark_plug', 'oxygen_sensor']",DLR1006,South,1387.09
+1b6a2b24-3c97-4099-a0ae-e674712bb582,Corolla,2021,29050,2023-10-28,"['U0100', 'P0420']",['transmission_fluid'],DLR1017,North,221.41
+f3b8cdde-7275-4439-879e-b70faf66bdac,Rav4,2015,17224,2024-09-27,['P0420'],"['transmission_fluid', 'fuel_pump', 'oxygen_sensor', 'battery']",DLR1001,South,1009.54
+e8d78a0b-d5df-4923-983c-fc20ab7b78cb,Model 3,2019,107769,2025-03-23,"['P0171', 'U0100']","['brake_pads', 'oxygen_sensor', 'transmission_fluid', 'battery']",DLR1001,Midwest,1865.77
+e395adfa-57b2-4052-a106-d40bc42252c0,Civic,2020,12492,2023-07-07,['P0455'],"['brake_pads', 'spark_plug', 'alternator', 'battery']",DLR1005,North,1528.08
+cbbefcdf-5f34-43f1-b398-c0339be3b7f4,Accord,2018,57923,2024-12-22,['P0455'],"['spark_plug', 'alternator']",DLR1002,West,1677.7
+d8c7ad2c-3fe9-43f8-8c9d-d59a991e0b0f,Rav4,2023,46467,2025-01-03,"['P0420', 'P0606']","['fuel_pump', 'brake_pads', 'transmission_fluid']",DLR1004,East,1197.34
+9316c6e6-a5f9-4b82-b9db-d23104f5b834,Civic,2015,65068,2023-10-31,"['P0455', 'P0300', 'P0606']","['alternator', 'oxygen_sensor']",DLR1011,North,2210.25
+79130126-3348-4674-ab52-edaee2b03e09,F-150,2019,25676,2023-08-11,"['B0020', 'P0455']","['spark_plug', 'gasket', 'alternator']",DLR1009,North,2353.43
+c6597082-da8c-4202-93f8-fdb37dd37ba5,Corolla,2019,20129,2023-05-11,['P0606'],"['alternator', 'brake_pads']",DLR1019,South,1822.27
+4df283a8-d8f8-44bf-8314-c574f32105f1,Corolla,2019,71244,2024-05-17,"['P0171', 'P0300']",['battery'],DLR1008,North,108.51
+377a4403-e222-43b5-90ae-efd0b0c53f5a,Corolla,2019,26178,2023-08-09,"['U0100', 'P0455', 'B0020']",['oxygen_sensor'],DLR1002,South,1409.42
+df42910f-0d68-4213-bc6b-7afee3b7d3ce,F-150,2023,24410,2023-11-15,"['P0420', 'P0300']","['gasket', 'battery', 'spark_plug']",DLR1011,South,1736.96
+a74026e6-6800-4c90-b78b-8daae6251fa3,Accord,2016,51357,2024-08-05,"['B0020', 'U0100', 'P0455']","['fuel_pump', 'battery']",DLR1005,South,2215.4
+8c87e9ed-1ff8-4dbd-a8f5-6a5189db430d,Civic,2017,101542,2023-06-18,"['B0020', 'U0100']","['alternator', 'oxygen_sensor']",DLR1003,West,2193.2
+e34a0fc0-0c62-4339-9d01-4903ce0b91e6,Model 3,2018,31158,2025-01-20,"['P0171', 'B0020']","['fuel_pump', 'spark_plug']",DLR1006,West,887.83
+9ce9cac9-5a68-42db-a43f-17af8b73f0ed,Civic,2019,51025,2024-07-19,"['P0455', 'U0100', 'B0020']","['spark_plug', 'transmission_fluid', 'brake_pads']",DLR1005,Midwest,2410.08
+d13eb6d4-54d4-4f1a-8897-08dd730345f2,F-150,2015,19208,2024-01-27,"['U0100', 'P0171', 'P0606']","['oxygen_sensor', 'fuel_pump', 'alternator', 'transmission_fluid']",DLR1008,North,1801.08
+a88e719a-7e57-40f8-93e8-02a5cbeb6a98,Civic,2023,110710,2024-02-27,"['P0606', 'B0020', 'P0420']","['battery', 'spark_plug', 'gasket']",DLR1010,Midwest,853.4
+8344e622-058d-435e-b5c2-ff8b07929d2d,Civic,2019,71469,2024-01-09,"['P0606', 'U0100']","['battery', 'gasket', 'brake_pads']",DLR1017,South,560.42
+17fcc44c-e50d-402b-9d6a-116b9c3af082,Accord,2021,93777,2023-11-25,"['P0420', 'P0455', 'P0606']","['battery', 'alternator', 'spark_plug']",DLR1009,East,604.44
+12b39fa5-d4a8-4c39-8ed5-233d70187581,Rav4,2020,65946,2023-10-09,"['U0100', 'P0606']","['transmission_fluid', 'battery']",DLR1005,North,781.09
+a05063ad-df07-4a7f-adc5-38a6fb5ba8e9,Accord,2020,17240,2024-07-18,['P0606'],"['fuel_pump', 'battery', 'oxygen_sensor']",DLR1004,North,210.91
+a6364c5e-fa50-488d-9980-7c2bb6546849,Model 3,2016,64692,2023-12-09,"['P0606', 'P0455']","['battery', 'fuel_pump']",DLR1012,South,454.17
+88d94bc9-1866-4f01-ab6f-fe6eeab756f7,Accord,2015,103430,2024-11-28,['B0020'],"['fuel_pump', 'oxygen_sensor', 'gasket', 'alternator']",DLR1014,North,1437.77
+2bdb2754-aa75-4cc4-8452-485fbb24646e,Civic,2022,22477,2023-09-09,"['P0606', 'P0455']","['transmission_fluid', 'alternator', 'gasket']",DLR1016,West,2093.37
+43495cc8-d316-45ed-8bca-8927dc6b9798,Rav4,2022,25861,2024-03-19,"['B0020', 'U0100', 'P0606']","['fuel_pump', 'battery', 'gasket']",DLR1008,Midwest,1263.03
+b7f7459b-f3cf-4f2f-b258-3ab9dc964df5,Corolla,2019,62654,2024-04-12,['P0606'],"['fuel_pump', 'brake_pads', 'battery']",DLR1010,Midwest,293.39
+ca31ee57-99bb-4af5-ac9b-0fa6602c7922,Corolla,2018,55205,2023-12-16,"['P0420', 'P0606', 'B0020']",['battery'],DLR1013,East,1402.27
+8dca556c-09fe-4df8-8cc2-3d857afa0c8a,Model 3,2015,32110,2024-06-06,"['U0100', 'P0455']",['battery'],DLR1015,North,2362.58
+f8b0d5eb-154a-4bb6-ba06-14bbee86570b,F-150,2021,116863,2023-06-18,"['P0455', 'P0606']","['transmission_fluid', 'oxygen_sensor']",DLR1008,West,1265.54
+c12b8b2e-91a5-474c-9d11-fb5b2ef07a3d,Model 3,2020,92670,2025-01-15,"['B0020', 'U0100', 'P0420']","['brake_pads', 'alternator', 'battery', 'spark_plug']",DLR1012,Midwest,1454.54
+1019692f-9fc6-4c69-a548-b02ff012a431,Civic,2016,89246,2023-07-09,"['P0420', 'U0100']","['spark_plug', 'brake_pads']",DLR1012,East,607.98
+40dc029f-aa85-4725-b491-9dafb357f451,F-150,2020,104775,2024-12-29,"['P0171', 'U0100']","['oxygen_sensor', 'fuel_pump', 'spark_plug']",DLR1017,North,2499.78
+474d5361-2511-4dbe-ae4b-ba9a083b63d9,F-150,2018,90215,2023-07-03,['B0020'],['spark_plug'],DLR1007,South,2114.15
+c13600f9-94f8-42b8-950f-a26d05b37755,Rav4,2017,36266,2023-10-29,['U0100'],['fuel_pump'],DLR1014,East,1940.56
+dfbab574-7fff-4358-8d60-ea59891db770,Corolla,2016,106946,2024-08-18,['P0171'],['spark_plug'],DLR1009,Midwest,1725.63
+530b957b-fb2c-4e9b-a7b0-df104ab85f58,Model 3,2021,98718,2024-07-14,['P0300'],"['oxygen_sensor', 'gasket']",DLR1009,Midwest,2033.27
+49fe00d9-6a6b-4198-b6c7-c35d26082d77,Rav4,2015,50508,2024-08-22,"['U0100', 'P0606', 'P0171']",['gasket'],DLR1000,West,2073.59
+192515cb-500c-48a8-87df-3cc73ed1c6d9,Civic,2021,52472,2024-08-15,"['B0020', 'U0100', 'P0420']","['brake_pads', 'gasket', 'alternator', 'transmission_fluid']",DLR1019,Midwest,1959.14
+1e7aa21e-43ba-4712-a962-d0534f3f665d,Model 3,2021,113230,2023-09-22,"['P0455', 'P0171', 'P0606']","['oxygen_sensor', 'brake_pads']",DLR1014,South,1901.14
+dab428d3-a35d-4b52-8b43-5678a9df35f0,Rav4,2021,49092,2024-09-20,['U0100'],"['brake_pads', 'fuel_pump', 'oxygen_sensor']",DLR1011,East,916.81
+f6031add-73f9-4281-9bcc-aedd51f44b12,Rav4,2019,77848,2023-09-07,['P0455'],"['oxygen_sensor', 'transmission_fluid']",DLR1013,West,1432.42
+de313398-9686-4851-bb0b-ae6de6224286,Corolla,2022,89659,2024-04-28,"['U0100', 'B0020', 'P0300']",['alternator'],DLR1007,West,1760.29
+fbbb7824-8876-4628-8790-c8bfc4c28230,F-150,2020,67031,2023-12-09,"['P0455', 'P0171', 'U0100']","['gasket', 'transmission_fluid', 'fuel_pump']",DLR1008,East,703.37
+a5f4e312-0d90-49f9-99b2-537177a3681c,Civic,2018,46359,2023-08-08,['P0606'],"['fuel_pump', 'oxygen_sensor']",DLR1015,East,1839.0
+602c880f-184f-4a22-b225-89d356d2d989,Rav4,2019,18176,2023-06-23,['P0171'],"['gasket', 'oxygen_sensor']",DLR1009,North,1799.24
+61076d64-48a0-45d2-bf0f-9054c70285cf,Corolla,2019,10965,2024-11-25,['P0455'],"['brake_pads', 'gasket', 'fuel_pump']",DLR1003,North,1477.75
+e7c07f8d-045c-4e60-b52b-cfc1452f2938,Model 3,2022,62733,2025-01-24,"['P0420', 'P0300']","['transmission_fluid', 'spark_plug', 'battery']",DLR1012,West,277.8
+e98aa501-6a80-46fa-9813-7ffb712bf944,Accord,2015,24887,2024-01-25,['B0020'],"['oxygen_sensor', 'transmission_fluid', 'spark_plug']",DLR1017,West,1555.16
+e4c041f0-e4b2-4df1-8bb7-0b2772768074,Rav4,2018,106671,2024-02-11,"['U0100', 'B0020', 'P0606']","['battery', 'brake_pads', 'alternator']",DLR1019,North,1563.11
+d2abd176-6c58-4ca2-96a2-f050b31684dd,Accord,2016,104973,2023-10-22,['P0606'],"['alternator', 'gasket']",DLR1002,South,675.68
+a9e19fcc-fe25-4537-b990-98cb46a4ce9b,Rav4,2016,25517,2024-06-27,['U0100'],"['transmission_fluid', 'brake_pads', 'spark_plug', 'oxygen_sensor']",DLR1009,East,1787.17
+86a7d90a-afaf-4edd-8183-9cb0aa71d0bc,Model 3,2016,95096,2025-01-04,['P0171'],"['battery', 'spark_plug']",DLR1017,South,1654.32
+86d56824-0a3a-4727-8240-73611c15d197,F-150,2017,14359,2024-05-15,['P0420'],"['alternator', 'fuel_pump', 'spark_plug']",DLR1014,East,1779.36
+e4e33548-3ece-4c83-aea7-8085af7fc274,F-150,2023,75776,2025-02-22,"['U0100', 'P0300']",['battery'],DLR1010,Midwest,700.88
+37588b30-43ac-42c5-ab03-a1ef0c2210d3,Civic,2018,93381,2024-02-15,"['P0455', 'P0300', 'P0171']",['brake_pads'],DLR1015,Midwest,1663.62
+6d1d8755-cd59-438d-ba3c-fb905ff62c52,F-150,2017,81720,2025-03-17,"['P0606', 'U0100']",['transmission_fluid'],DLR1011,West,899.94
+c958004f-39c0-4c29-8cef-6170980cdb95,Accord,2016,117424,2024-02-15,['P0171'],"['transmission_fluid', 'brake_pads', 'gasket', 'fuel_pump']",DLR1017,North,1191.58
+6e6cf2dd-7421-49ea-a331-ffe9da73ee0a,F-150,2019,47372,2023-08-08,['B0020'],"['spark_plug', 'gasket', 'alternator', 'fuel_pump']",DLR1013,North,550.2
+830f944b-1598-486d-bb9f-2dfb79199129,F-150,2022,86973,2024-03-20,"['B0020', 'P0300']","['alternator', 'transmission_fluid']",DLR1004,East,1151.48
+6049fc05-f5af-4ae6-9972-f2b6f3d2eb7b,Accord,2022,20915,2024-07-01,['P0606'],"['brake_pads', 'transmission_fluid']",DLR1017,North,1425.4
+d01b5c3a-2b65-4961-8787-a5d89a3619ec,Civic,2018,115284,2024-08-14,['U0100'],['brake_pads'],DLR1015,East,1321.29
+5d5e63b9-013d-4118-90d4-e601d380d2f1,F-150,2021,114408,2025-04-26,"['U0100', 'P0420']","['brake_pads', 'fuel_pump', 'oxygen_sensor', 'alternator']",DLR1016,South,2173.66
+134cc772-90c5-4196-91ee-97ad0d6957e7,F-150,2021,49548,2024-04-28,"['P0171', 'P0300', 'B0020']","['transmission_fluid', 'battery', 'oxygen_sensor']",DLR1014,Midwest,1262.42
+8f5b6f37-0e72-4904-aa60-a9b6b8a25757,F-150,2023,104991,2024-07-16,"['U0100', 'B0020', 'P0171']","['fuel_pump', 'alternator']",DLR1012,South,2154.43
+58bfed38-15a3-4761-b7c0-f1bcaeeaa40d,Model 3,2015,46704,2024-07-25,"['U0100', 'P0606', 'B0020']","['brake_pads', 'fuel_pump', 'spark_plug', 'oxygen_sensor']",DLR1016,Midwest,896.79
+989b10e6-96a6-4c0d-b59d-cde4c3606b05,Civic,2022,18069,2023-09-08,"['U0100', 'P0300', 'P0420']","['brake_pads', 'spark_plug', 'fuel_pump', 'transmission_fluid']",DLR1010,Midwest,1762.49
+26b113cb-2987-48c6-9136-0b3034db9b5e,Accord,2016,116642,2024-08-31,"['B0020', 'P0606']","['gasket', 'transmission_fluid', 'battery', 'fuel_pump']",DLR1017,North,1581.9
+67196029-7ef6-44ba-85d4-e162748dba5f,Corolla,2019,34817,2024-05-13,"['P0300', 'U0100', 'B0020']",['transmission_fluid'],DLR1005,East,2268.22
+3e40719c-e3ce-4022-b3a3-8b6731a32f6f,Civic,2020,109352,2024-11-28,['P0171'],"['gasket', 'fuel_pump', 'oxygen_sensor']",DLR1007,Midwest,1088.92
+c489df32-c2e8-44b9-a2b9-8db4b4663ed9,Accord,2017,27280,2023-11-08,['P0300'],"['fuel_pump', 'transmission_fluid', 'alternator', 'oxygen_sensor']",DLR1007,West,1630.97
+2ebc7dd8-c188-4090-b61d-71ab7e7040f2,Model 3,2019,92404,2023-11-02,['B0020'],"['alternator', 'gasket', 'transmission_fluid', 'oxygen_sensor']",DLR1002,West,2368.57
+d1e23152-4e62-4e1e-9167-4bb13486db25,Rav4,2019,88746,2024-07-16,"['P0606', 'P0171']","['alternator', 'oxygen_sensor', 'fuel_pump', 'gasket']",DLR1003,South,1015.27
+9fe75ee0-3f0c-4f0e-b73c-354f56dcb41a,F-150,2019,96655,2024-06-24,"['P0300', 'P0606']","['alternator', 'spark_plug', 'transmission_fluid', 'battery']",DLR1019,West,2098.81
+b7f48d51-3b78-4a3e-b8a6-d18d3371ab1c,F-150,2018,84569,2024-12-19,"['P0420', 'P0606']","['alternator', 'gasket']",DLR1004,North,2268.17
+9fb4c55d-f514-4dda-8501-5b55f75a7c18,Accord,2015,45492,2024-01-18,"['P0300', 'P0455']","['brake_pads', 'spark_plug', 'transmission_fluid']",DLR1010,West,521.54
+42cdc961-03b8-44de-a126-381dd7024833,Corolla,2023,119879,2024-04-07,"['P0455', 'B0020']","['brake_pads', 'transmission_fluid', 'fuel_pump']",DLR1009,East,2030.16
+a6e27183-2edf-47ff-a317-ade59e989b7e,Model 3,2016,23449,2025-01-23,['B0020'],"['gasket', 'spark_plug', 'fuel_pump', 'battery']",DLR1008,Midwest,396.61
+adca9c40-1dca-4240-bc6b-2270c4ebb973,F-150,2019,81619,2024-09-25,"['B0020', 'P0606']","['oxygen_sensor', 'gasket', 'transmission_fluid']",DLR1015,North,1586.91
+0b4f719a-fac9-4502-84ef-cbc7e5e9ae01,Rav4,2020,84964,2023-06-21,['P0606'],['transmission_fluid'],DLR1009,West,380.02
